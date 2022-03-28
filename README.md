@@ -8,5 +8,14 @@ To run the bot you will need knowledge of Discord:
 
 ![image](https://user-images.githubusercontent.com/92131037/160316324-e0ba4fd2-b72d-4f74-9b86-fbb2472c179f.png)
 
+Dependencies: 
 
 https://discordpy.readthedocs.io/en/stable/discord.html
+
+https://pypi.org/project/neuralintents/
+
+https://www.nltk.org/
+
+https://discordpy.readthedocs.io/en/stable/
+
+https://www.python.org/downloads/release/python-3104/
